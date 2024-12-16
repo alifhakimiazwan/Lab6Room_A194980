@@ -1,0 +1,43 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_item_description">Oops!\nNo workouts added.\nTap + to add.</string>
+    <string name="edit_item_title">Edit Item</string>
+    <string name="item">Workout</string>
+    <string name="item_detail_title">Item Details</string>
+    <string name="item_entry_title">Add Item</string>
+    <string name="item_name_req">Workout Name*</string>
+    <string name="item_category_req">Category*</string>
+
+    <string name="item_price_req">Calories Burned*</string>
+    <string name="no">No</string>
+    <string name="duration">Duration (mins)</string>
+    <string name="calories_burned">Calories Burned</string>
+    <string name="in_duration">%d minutes</string>
+    <string name="in_calories">%d kcal</string>
+
+    <string name="quantity_req">Duration (mins)*</string>
+    <string name="save_action">Save</string>
+    <string name="sell">Sell</string>
+    <string name="yes">Yes</string>
+    <string name="category">Category</string>
+    <string name="required_fields">*required fields</string>
+</resources>
